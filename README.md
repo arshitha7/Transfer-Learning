@@ -21,7 +21,6 @@ Evaluate the model on the test dataset and calculate accuracy, precision, recall
 Visualize sample predictions, loss curves, and the confusion matrix to analyze the model's performance.
 
 ## PROGRAM
-Include your code here
 ```python
 # Load Pretrained Model and Modify for Transfer Learning
 from torchvision.models import VGG19_Weights
